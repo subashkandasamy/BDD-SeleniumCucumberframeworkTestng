@@ -1,0 +1,42 @@
+2019-08-26 16:08:888 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:976 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:48 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:100 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:868 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:929 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:208 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:948 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:936 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:984 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:262 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:312 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:756 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:799 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:107 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:150 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:517 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:546 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:966 INFO  ServiceHooks:39 - Activate Subject is pass
+2019-08-26 16:08:865 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:918 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:979 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:20 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:323 INFO  ServiceHooks:31 - Edit the Activated Subject is Failed
+2019-08-26 16:08:416 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:463 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:539 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:585 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:964 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:32 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:72 INFO  ServiceHooks:39 - Sign In with valid credential is pass
+2019-08-26 16:08:480 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:526 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:586 INFO  ServiceHooks:39 - Sign In with valid credentials is pass
+2019-08-26 16:08:654 INFO  ServiceHooks:39 - Sign In with valid credentials is pass
+2019-08-26 16:08:315 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:376 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:443 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:485 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:836 INFO  WaitHelper:19 - waiting for element visibilityOf..
+2019-08-26 16:08:870 INFO  WaitHelper:22 - element is visible..
+2019-08-26 16:08:907 INFO  ServiceHooks:39 - Sign In with valid credentials is pass

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="175.106" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_211\bin"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\C38039\Snappet\com.org.snappet.BDD"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\C38039\Snappet\com.org.snappet.BDD"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_211\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\C38039\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\C38039\Snappet\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5239885114549515256.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\instantclient_12_2;C:\Program Files\instantclient_12_2;%JAVA_HOME%;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;%M2_HOME%;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\C38039\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_151\jre;C:\Users\C38039\apache-maven-3.6.0\bin;C:\Users\C38039\AppData\Roaming\npm;C:\Users\C38039\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\C38039\geckodriver\chromedriver_win32\chromedriver.exe;;C:\Users\C38039\eclipse-New\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\C38039"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="C38039"/>
+    <property name="java.class.path" value="C:\Users\C38039\eclipse-New\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.10.0.20181127-2120\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_211"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s C:\Users\C38039\apache-maven-3.6.0\conf\settings - Copy.xml install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_211\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_211\lib\resources.jar;C:\Program Files\Java\jre1.8.0_211\lib\rt.jar;C:\Program Files\Java\jre1.8.0_211\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_211\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_211\lib\jce.jar;C:\Program Files\Java\jre1.8.0_211\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_211\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_211\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\C38039\Snappet\com.org.snappet.BDD\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="feature" classname="testRunner.TestRunner" time="72.295">
+    <failure message="org.openqa.selenium.StaleElementReferenceException: The element reference of &lt;strong class=&quot;elipsis-1-lines&quot;&gt; is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;&#10;System info: host: &apos;NLLR4000510436&apos;, ip: &apos;10.0.75.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190717172542, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 46820, moz:profile: C:\Users\C38039\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: b5fb5e25-b987-4cf0-a9f6-ce33c39262a2" type="cucumber.runtime.CucumberException"><![CDATA[cucumber.runtime.CucumberException: 
+org.openqa.selenium.StaleElementReferenceException: The element reference of <strong class="elipsis-1-lines"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'NLLR4000510436', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190717172542, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 46820, moz:profile: C:\Users\C38039\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b5fb5e25-b987-4cf0-a9f6-ce33c39262a2
+	at testRunner.TestRunner.feature(TestRunner.java:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: 
+The element reference of <strong class="elipsis-1-lines"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'NLLR4000510436', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190717172542, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 46820, moz:profile: C:\Users\C38039\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b5fb5e25-b987-4cf0-a9f6-ce33c39262a2
+]]></failure>
+    <system-out><![CDATA[@ActivateSubject
+Feature: Activate Subject in Teacher Dashbord
+
+  @Regression
+  Scenario Outline: Activate Subject               # ActivateSubject.feature:5
+    When Login to application
+    When click on activate subject link
+    And select a Subject "<subject>"
+    And click on next button
+    And click on next button
+    And select a subject group "<subjectGroup>"
+    And click on activate subject button
+    Then Verify the added subject "<subjecttitle>"
+
+    Examples: 
+i am in ServiceHooks
+2019-08-26 16:08:888 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:976 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:48 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:100 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:868 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:929 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:208 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:948 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:936 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:984 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:262 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:312 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:756 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:799 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:107 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:150 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:517 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:546 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:966 INFO  ServiceHooks :39 - Activate Subject is pass
+
+  @ActivateSubject @Regression
+  Scenario Outline: Activate Subject                       # ActivateSubject.feature:17
+    When Login to application                              # ActivateSubjectDefinition.login_to_application()
+    When click on activate subject link                    # ActivateSubjectDefinition.click_on_activate_subject_link()
+    And select a Subject "Taal"                            # ActivateSubjectDefinition.select_a_Subject(String)
+    And click on next button                               # ActivateSubjectDefinition.click_on_next_button()
+    And click on next button                               # ActivateSubjectDefinition.click_on_next_button()
+    And select a subject group "A. Staal Grammatica, gr 4" # ActivateSubjectDefinition.select_a_subject_group(String)
+    And click on activate subject button                   # ActivateSubjectDefinition.click_on_activate_subject_button()
+    Then Verify the added subject "Taal"                   # ActivateSubjectDefinition.verify_the_added_subject(String)
+
+  @EditActivateSubject @Regression
+  Scenario Outline: Edit the Activated Subject   # ActivateSubject.feature:25
+    When Login to application
+    And click on edit button "<subjectheading>"
+    And change the subject name "<subjecName>"
+    And click on save button
+    Then Verify the added subject "<subjecName>"
+
+    Examples: 
+i am in ServiceHooks
+2019-08-26 16:08:865 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:918 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:979 INFO  WaitHelper :19 - waiting for element visibilityOf..
+2019-08-26 16:08:20 INFO  WaitHelper :22 - element is visible..
+2019-08-26 16:08:323 INFO  ServiceHooks :31 - Edit the Activated Subject is Failed
+
+  @ActivateSubject @Regression @EditActivateSubject
+  Scenario Outline: Edit the Activated Subject # ActivateSubject.feature:34
+    When Login to application                  # ActivateSubjectDefinition.login_to_application()
+    And click on edit button "Taal"            # ActivateSubjectDefinition.click_on_edit_button(String)
+      org.openqa.selenium.StaleElementReferenceException: The element reference of <strong class="elipsis-1-lines"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+      For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+      Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+      System info: host: 'NLLR4000510436', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+      Driver info: org.openqa.selenium.firefox.FirefoxDriver
+      Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190717172542, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 46820, moz:profile: C:\Users\C38039\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+      Session ID: b5fb5e25-b987-4cf0-a9f6-ce33c39262a2
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+      	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+      	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+      	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+      	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+      	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+      	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+      	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:160)
+      	at pages.ActivateSubjectPage.clickonEditButton(ActivateSubjectPage.java:101)
+      	at stepDefinitions.ActivateSubjectDefinition.click_on_edit_button(ActivateSubjectDefinition.java:52)
+      	at ?.And click on edit button "Taal"(ActivateSubject.feature:27)
+
+    And change the subject name "TaalEdited"   # ActivateSubjectDefinition.change_the_subject_name(String)
+    And click on save button                   # ActivateSubjectDefinition.click_on_save_button()
+    Then Verify the added subject "TaalEdited" # ActivateSubjectDefinition.verify_the_added_subject(String)
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1566828897283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C38039\\AppData\\Local\\Temp\\rust_mozprofile.OS4YSNqIgvhc"
+1566828899053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566828899054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566828899057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566828899057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566828899252	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+addMetadata@XPIDatabase.jsm:2443:32
+processFileChanges@XPIDatabase.jsm:2809:26
+checkForChanges@XPIProvider.jsm:2728:55
+startup@XPIProvider.jsm:2265:12
+callProvider@AddonManager.jsm:193:31
+_startProvider@AddonManager.jsm:569:5
+startup@AddonManager.jsm:725:14
+startup@AddonManager.jsm:2797:26
+observe@addonManager.js:65:29
+1566828904673	Marionette	INFO	Listening on port 64159
+1566828905116	Marionette	WARN	TLS certificate errors will be ignored for this session
+Aug 26, 2019 4:15:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1566828924728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561548844810%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566828930071	Marionette	INFO	Stopped listening on port 64159
+[Parent 77536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 110280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://teacher.snappet.org/V3/131912/Lessons#subjectGroupId=5783, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 113852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://teacher.snappet.org/Areas/V3/dist/js/snappet-app-9efd46206b.js, line 32: Error: SnappetSafeMode::httpGet::error: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 77536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 112204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 112204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566828936622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C38039\\AppData\\Local\\Temp\\rust_mozprofile.RuqZhnxwdTOK"
+1566828938274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566828938274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566828938274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566828938275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566828938442	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+addMetadata@XPIDatabase.jsm:2443:32
+processFileChanges@XPIDatabase.jsm:2809:26
+checkForChanges@XPIProvider.jsm:2728:55
+startup@XPIProvider.jsm:2265:12
+callProvider@AddonManager.jsm:193:31
+_startProvider@AddonManager.jsm:569:5
+startup@AddonManager.jsm:725:14
+startup@AddonManager.jsm:2797:26
+observe@addonManager.js:65:29
+1566828944176	Marionette	INFO	Listening on port 64239
+1566828944283	Marionette	WARN	TLS certificate errors will be ignored for this session
+Aug 26, 2019 4:15:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1566828961439	Marionette	INFO	Stopped listening on port 64239
+[Child 3808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 46820, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 96300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 96300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://teacher.snappet.org/Areas/V3/dist/js/snappet-libs-4a96b33f3a.js, line 1: Error: Script error for "//google-analytics.com/analytics.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://teacher.snappet.org/Areas/V3/dist/js/snappet-libs-4a96b33f3a.js, line 1: Error: Script error for "jquery.cookie", needed by: v3/FromV2/cookieService
+http://requirejs.org/docs/errors.html#scripterror
+[Child 87100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 87100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 113692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+]]></system-err>
+  </testcase>
+  <testcase name="feature" classname="testRunner.TestRunner" time="101.149"/>
+</testsuite>
