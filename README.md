@@ -10,18 +10,18 @@ Snappet Task
 
 • Both Passed and Failer scenario capture the screenshot and attached to result 
 
-# Selenium Version:
+# Selenium Version :
 3.141
 
 # Browser :
 Tested with Firefox 67.0 And framework is cable of run on multiple browser based on the configuration of browser value in config file under Config package
 
 
-# How to run the test 
+# How to run the test :
 clone the repository and down all the dependencies maven install or Maven clean build 
 right click on pom and run as Maven Install 
 
-# Results 
+# Results :
 Results are avilable under target folder 
 Avilable result type 
 • Cucumber Pretty 
