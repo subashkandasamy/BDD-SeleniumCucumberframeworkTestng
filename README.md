@@ -2,7 +2,7 @@
 Snappet Task
 
 # Automation Framework :
-• The BDD Framework was built with Selenium, Java , Cuccummber and TestNG. Required libraries are entered in the Maven POM file.
+• The BDD Framework was build with Selenium, Java , Cucummber and TestNG. Required libraries are entered in the Maven POM file.
 
 • The Page Object Model approach was followed to build the Framework.
 
