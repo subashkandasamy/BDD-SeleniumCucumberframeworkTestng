@@ -8,7 +8,7 @@
 
 • The Page Object Model approach was followed to build the Framework.
 
-• Each and every pages in application will interaction with their elements have been specified in own page class under Pages package(\Folder) This division enhances the maintainability of the test code.
+• Each and every pages in application will interaction with their elements have been specified in own page class under Pages     package(\Folder) This division enhances the maintainability of the test code.
 
 • Both Passed and Failer scenario capture the screenshot and attached to result 
 
@@ -20,10 +20,7 @@ Tested with Firefox 67.0 And framework is cable of run on multiple browser based
 
 
 ## How to run the test :
-clone the repository and down all the dependencies and run maven install or Maven clean build command.
-Right click on pom and select run -> Maven Install 
-Or 
-Run with TestNg Xml - Right click on TestNg xml and select run -> TestNg option
+clone the repository and down all the dependencies and run maven install or Maven clean build command. Right click on pom and select run -> Maven Install Or Run with TestNg Xml - Right click on TestNg xml and select run -> TestNg option
 
 ## Results :
 Results are avilable under target folder 
